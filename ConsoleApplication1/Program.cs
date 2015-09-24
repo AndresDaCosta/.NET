@@ -29,7 +29,7 @@ namespace ConsoleApplication1
             }
             else {
 
-                Console.WriteLine("el numero es negativo");
+               Console.WriteLine("el numero es negativo");
 
             }
             Console.ReadLine();
