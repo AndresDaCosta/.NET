@@ -1,0 +1,6 @@
+c:\users\andres\documents\visual studio 2015\Projects\Calculodias\Calculodias\bin\Debug\Calculodias.exe.config
+c:\users\andres\documents\visual studio 2015\Projects\Calculodias\Calculodias\bin\Debug\Calculodias.exe
+c:\users\andres\documents\visual studio 2015\Projects\Calculodias\Calculodias\bin\Debug\Calculodias.pdb
+c:\users\andres\documents\visual studio 2015\Projects\Calculodias\Calculodias\obj\Debug\Calculodias.csprojResolveAssemblyReference.cache
+c:\users\andres\documents\visual studio 2015\Projects\Calculodias\Calculodias\obj\Debug\Calculodias.exe
+c:\users\andres\documents\visual studio 2015\Projects\Calculodias\Calculodias\obj\Debug\Calculodias.pdb
